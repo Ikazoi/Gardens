@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+}
+
+#navbar-container{
+    width: 100%;
+    max-width: 1060px;
+    background-color: blue;
+    margin: auto;
+}
+
+#navbar{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#navbar li{
+    list-style: none;
+    float: left;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+#menu{
+    float: right;
+}
+
+#menu li{
+    padding: 10px;
+}
+
+#socials{
+    float: right;
+}
+
+.logo p{
+    display: inline;
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+}
+
+.logo-dot{
+  background: -webkit-linear-gradient(#1EC22E, #1BA428);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
